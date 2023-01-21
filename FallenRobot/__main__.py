@@ -91,13 +91,13 @@ PM_START_TEXT = """
 
 𝐘𝐄 𝐁𝐎𝐓 𝐁𝐇𝐈 𝐃𝐄𝐊𝐇 𝐋𝐎 𝐘𝐑 𝐁𝐎𝐇𝐎𝐓 𝐀𝐌𝐀𝐙𝐈𝐍𝐆 𝐇𝐀𝐈🙈👇👇
 ┏━━━━━━━━━━━━━━━━━━┓
-┣★ [MISS ROSE ROBOT](https://t.me/miss_rose_robot) 🌹
-┣★ [TG MANAGER ROBOT](https://t.me/tg_manager_robot) 💫
-┣★ [THE KANISHKA BOT](https://t.me/the_kanishka_bot) 💥
+┣★ [𝐌𝐈𝐒𝐒 𝐑𝐎𝐒𝐄 𝐑𝐎𝐁𝐎𝐓](https://t.me/TG_Manager_Robot_bot) 🌹
+┣★ [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭 𝐌𝐢𝐫𝐫𝐨𝐫 𝐙𝐨𝐧𝐞™](https://t.me/Opleech) 💫
+┣★ [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭 𝐓𝐨𝐩𝐢𝐜 𝐆𝐫𝐨𝐮𝐩](https://t.me/WOODcraft_Mirror_Topic) 💥
 ┣★ 𝐄𝐍𝐉𝐎𝐘 𝐊𝐑𝐎 😂💃💃 
 ┗━━━━━━━━━━━━━━━━━━┛
 
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@Farooq_is_KING](https://t.me/Farooq_is_KING)⛦⃕͜🇮🇳𓊉
 
 ๏ *ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ 𝐇𝐎𝐓 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒 ʙᴜᴛᴛᴏɴ* .
 """

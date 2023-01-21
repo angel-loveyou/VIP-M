@@ -325,5 +325,5 @@ __help__ = """
 I can create some beautiful and attractive logo for your profile pics.
 
 ❍ /logo (Text) *:* Create a logo of your given text with random view.
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@Farooq_is_KING](https://t.me/Farooq_is_KING)⛦⃕͜🇮🇳𓊉
 """

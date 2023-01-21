@@ -410,7 +410,7 @@ __help__ = """
  ❍ /unban <userhandle>*:* unbans a user. (via handle, or reply)
  ❍ /kick <userhandle>*:* kicks a user out of the group, (via handle, or reply)
 
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@Farooq_is_KING](https://t.me/Farooq_is_KING)⛦⃕͜🇮🇳𓊉
 """
 
 BAN_HANDLER = CommandHandler(["ban", "sban"], ban)

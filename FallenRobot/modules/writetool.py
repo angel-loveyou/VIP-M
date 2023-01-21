@@ -63,5 +63,5 @@ __help__ = """
  Writes the given text on white page with a pen 🖊
 
 ❍ /write <text> *:* Writes the given text.
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊 [@THE_VIP_BOY](https://t.me/the_vip_boy) ⛦⃕͜🇮🇳 𓊉 
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊 [@Farooq_is_KING](https://t.me/Farooq_is_KING) ⛦⃕͜🇮🇳 𓊉 
  """

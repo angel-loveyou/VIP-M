@@ -91,7 +91,7 @@ I can upload files to Telegraph
  ❍ /tgm :Get Telegraph Link Of Replied Media
  ❍ /tgt :Get Telegraph Link of Replied Text
  ❍ /tgt [custom name]: Get telegraph link of replied text with custom name.
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@Farooq_is_KING](https://t.me/Farooq_is_KING)⛦⃕͜🇮🇳𓊉
 """
 
 __mod_name__ = "🕺𝐓-𝐆𝐑𝐀𝐏𝐇💃"

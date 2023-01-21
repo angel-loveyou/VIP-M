@@ -198,7 +198,7 @@ __help__ = """
 
     💡If you disable fsub, you need to set again for working.. /fsub {channel username} 
 
-  ❍ /fsub clear *:* To unmute all members who are muted by me for not joining the channel.
+  ❍ /f⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@Farooq_is_KING](https://t.me/Farooq_is_KING)⛦⃕͜🇮🇳𓊉sub clear *:* To unmute all members who are muted by me for not joining the channel.
 ⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
 """
 __mod_name__ = "⚡𝐅𝐒𝐔𝐁⚡"

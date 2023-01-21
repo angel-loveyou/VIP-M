@@ -62,7 +62,7 @@ dispatcher.add_handler(SPEED_TEST_CALLBACKHANDLER)
 
 __help__ = """
 » /speedtest *:* Runs a speedtest and check the server speed.
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@Farooq_is_KING](https://t.me/Farooq_is_KING)⛦⃕͜🇮🇳𓊉
 """
 
 __mod_name__ = "🤖𝐌𝐘 𝐒𝐏𝐄𝐄𝐃⚡"

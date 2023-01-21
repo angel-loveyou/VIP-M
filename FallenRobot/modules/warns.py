@@ -524,7 +524,7 @@ be a sentence, encompass it with quotes, as such: `/addwarn "very angry" This is
  ❍ `/nowarn <keyword>`*:* stop a warning filter
  ❍ `/warnlimit <num>`*:* set the warning limit
  ❍ `/strongwarn <on/yes/off/no>`*:* If set to on, exceeding the warn limit will result in a ban. Else, will just punch.
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@Farooq_is_KING](https://t.me/Farooq_is_KING)⛦⃕͜🇮🇳𓊉
 """
 
 __mod_name__ = "👿𝐖𝐀𝐑𝐍𝐒👹"
